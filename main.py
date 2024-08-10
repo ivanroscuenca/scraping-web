@@ -31,6 +31,7 @@ def extract(source):
 
 def send_email(message):
     username = 'ivanroscuenca@gmail.com'
+    # YOU MUST USE REAL PASSWORD
     password = '*************'
     host = 'smtp.gmail.com'
     port = 587
